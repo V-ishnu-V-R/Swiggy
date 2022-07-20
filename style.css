@@ -1,0 +1,246 @@
+.container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    
+}
+.topbody1{
+padding: 30px;
+
+
+
+}
+.form{
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+.button{
+    width: 180px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #fc8019;
+    border: none;
+    color: white;
+    
+}
+.inputField{
+    width: 500px;
+    height: 30px;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.textBody{
+    margin-left: 50px;
+    margin-top: 70px;
+}
+.h1{
+    font-size: 40px;
+    font-weight: 600;
+    
+}
+.p1{
+    font-size: 24px;
+    font-weight: 300;
+    color: #686b78;
+   
+}
+.p2{
+    font-size: 15px;
+    font-weight: 400;
+    color: #a9abb2;
+}
+.p3{
+    font-size: 16px;
+    font-weight: 400;
+    color: #686b78;
+}
+.topbody2{
+    width: 100%;
+    height: 600px;
+    background-image: url(https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_1340/Lunch3-new_mkqxdb);
+    background-size: cover;
+    background-position: 100%;
+}
+.slogo{
+    margin-left: 38px;
+    margin-top: 67px;
+}
+.logo{
+    width: 217px;
+    height: 66px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+.buttons{
+    margin-top: 78px;
+    margin-left: 288px;
+    
+    
+
+
+}
+.bt1{
+    width: 100px;
+    height: 50px;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+
+    
+
+}
+.bt1:hover{
+    color: orange;
+}
+.bt2{
+    width: 100px;
+    height: 41px;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;;
+    padding-left: 0px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    
+
+}
+.buttons1{
+    margin-top: 79px;
+    margin-left: 0px;
+   
+    
+
+
+}
+.picdiv{
+    display: flex;
+    flex-direction: row;
+    background-color: #2b1e16;
+    padding-bottom: 40px;
+
+}
+.pic1{
+   margin: auto;
+
+}
+.pic{
+    height: 225px;
+    width: 162px;
+}
+.h{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;;
+    color: white;
+}
+.p{
+    font-size: 15px;
+    
+    font-family: arial,Helvetica Neue,sans-serif;;
+    
+    color: #e0cbc1;
+}
+.container2{
+    display: flex;
+    flex-direction: row;
+    
+}
+.body1{
+    width: 50%;
+    padding-top: 110px;
+    padding-left: 35px;
+    
+}
+.bodyh{
+    font-size: 42px;
+    font-weight: 600;
+    color: #282c3f;
+}
+.bodyp{
+    font-size: 20px;
+    font-weight: 300;
+    color: #7e808c;
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;;
+}
+.body2{
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+}
+.body2 img{
+    width: 100%;
+  
+}
+.bodypic{
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+}
+.bodypic1{
+    height: 50px;
+    
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    padding-top: 40px;
+    padding: 50px;
+}
+.fh{
+    color: gray;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;;
+}
+.fp{
+    color: white;
+    padding-bottom: 10px;
+    line-height: 35px;
+    font-size: 20px;
+    font-weight: 300;
+
+}
+.footer1{
+    margin-left: 100px;
+
+}
+.footerpic{
+    width: 250px;
+}
+.footer1pic{
+    padding-left:145px ;
+}
+.finalfooter{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    justify-content: space-between;
+    padding: 30px;
+    border-top: #ffffff solid 1px;
+}
+.ffpic{
+    width: 175px;
+}
+.icon img{
+    width: 30px;
+    padding-left: 15px;
+}
+
+
+ body{
+        margin: 0;
+    }
+
+
